@@ -55,6 +55,27 @@ while(again.ToLower() == "a")
     Console.WriteLine("============================================");
     Console.WriteLine();
 
+    // Algoritmus pro výpis řady
+    if (first <= last) 
+    {
+        int current = first;
+        while(current <= last)
+        {
+            //Console.WriteLine(current);
+            Console.Write(current + "; ");
+            // current = current + step;
+            // zkrácený předchozí řádek: 
+            current += step;
+        }
+        
+    } 
+    else
+    {
+        Console.WriteLine("Řadu nelze vypsat!");
+        Console.WriteLine("První číslo je větší než poslední číslo řady!");
+        Console.WriteLine("Tento program umí vypsat pouze vzestupnou řadu (od menšího po větší)");
+    };
+
 
     //Dotaz směrem k uživateli na opakování
     Console.WriteLine();

@@ -1,0 +1,5 @@
+C:\aaa\github-vr-is-2026-sk3\IS-Programy\program000a-zakladni-program\obj\Debug\net10.0\program000a-zakladni-program.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\github-vr-is-2026-sk3\IS-Programy\program000a-zakladni-program\obj\Debug\net10.0\program000a-zakladni-program.AssemblyInfoInputs.cache
+C:\aaa\github-vr-is-2026-sk3\IS-Programy\program000a-zakladni-program\obj\Debug\net10.0\program000a-zakladni-program.AssemblyInfo.cs
+C:\aaa\github-vr-is-2026-sk3\IS-Programy\program000a-zakladni-program\obj\Debug\net10.0\program000a-zakladni-program.csproj.CoreCompileInputs.cache
+C:\aaa\github-vr-is-2026-sk3\IS-Programy\program000a-zakladni-program\obj\Debug\net10.0\program000a-zakladni-program.sourcelink.json
